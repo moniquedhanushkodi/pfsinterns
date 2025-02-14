@@ -1,5 +1,6 @@
 #Purpose: Generate Randomized Password
 #Used: Python lists, string manipulation, and the random library 
+
 #Created By: Monique Priyan Dhanushkodi
 #Created On: February 14, 2025
 
@@ -74,7 +75,7 @@ while i_length > 0:
 
     i_length -= 1
 
-#logic end
+#logic ends
 
 #final output
 print("Generated Password: " + "".join(v_password))
